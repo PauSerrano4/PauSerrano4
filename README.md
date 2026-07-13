@@ -54,7 +54,7 @@ I recently completed an Erasmus exchange at FIIT STU (Bratislava), where I worke
 
 - 🎲 **[SCRABBLE_GAME](https://github.com/PauSerrano4/SCRABBLE_GAME)** — Java Scrabble game with an AI opponent, GUI, rankings, and save/load, built for the PROP course at FIB-UPC.
 - ☁️ **[cinder-backup-manager](https://github.com/PauSerrano4/cinder-backup-manager)** — GUI-driven tool to automate OpenStack Cinder volume backups, built with Python, Streamlit and Docker.
-- 🧠 **Siamese Network for facial recognition** — ResNet18-based verification model trained with Contrastive Loss (PyTorch).
+- 🧠 **[siamese-facial-recognition](https://github.com/PauSerrano4/siamese-facial-recognition)** — ResNet18-based Siamese Network trained with Contrastive Loss for facial verification (PyTorch).
 
 ## Connect with me
 
