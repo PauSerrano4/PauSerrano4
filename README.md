@@ -1,15 +1,14 @@
 # Hi, I'm Pau Serrano 👋
 
-I'm a Computer Engineering student at UPC (FIB), passionate about Data Visualization, Cloud Computing, and Computer Graphics 🚀
+I'm a Computer Engineering student at UPC (FIB), passionate about AI & ML 🚀
 
-I recently completed an Erasmus exchange at FIIT STU (Bratislava), where I worked on cloud automation tools, recommendation systems, and real-time rendering. I'm currently looking for a curricular internship starting September 2026 in Software Engineering, Data/AI, or Cloud Computing.
+I recently completed an Erasmus exchange at FIIT STU (Bratislava), where I worked on neural networks, cloud automation tools, recommendation systems, and real-time rendering. I'm currently looking for a curricular internship starting September 2026 in Software Engineering, Data/AI, or Cloud Computing.
 
-- 🔭 I'm currently working on **cinder-backup-manager** (OpenStack automation with Python + Streamlit + Docker) and a **Siamese Network** for facial recognition (PyTorch)
-- 🌱 I'm currently learning more about Cloud Computing, Ray Tracing, and Information Retrieval
-- 💬 Ask me about Data Visualization, Cloud Computing, or Computer Graphics
-- 🏋️ Outside of code, I'm into the gym and fitness
+- 🔭 I've recently worked on **cinder-backup-manager** (OpenStack automation with Python + Streamlit + Docker) and a **Siamese Network** for facial recognition (PyTorch)
+- 🌱 I'm currently learning more about AI, Machine Learning, and software development.
+- 💬 Ask me about AI, ML or Software Development.
+- 🏋️ Outside of code, I'm into the gym and fitness. 
 - 🗣️ I speak Catalan and Spanish natively, and English (C1 Cambridge Advanced)
-- ⚡ Fun fact: [escriu-hi alguna cosa teva — una dada curiosa, un hobby, una anècdota]
 
 ## My Skill Set
 
