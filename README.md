@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at UPC (FIB), passionate about AI & ML 🚀
 
-I recently completed an Erasmus exchange at FIIT STU (Bratislava), where I worked on neural networks, cloud automation tools, recommendation systems and data visualization. I'm currently looking for a curricular internship starting September 2026 in Software Engineering or Data/AI.
+I recently completed an Erasmus exchange at FIIT STU (Bratislava), where I worked on neural networks, cloud automation tools, recommendation systems and data visualization. I'm currently looking for a[...] 
 
 - 🔭 I've recently worked on **cinder-backup-manager** (OpenStack automation with Python + Streamlit + Docker) and a **Siamese Network** for facial recognition (PyTorch)
 - 🌱 I'm currently learning more about AI, Machine Learning, and software development.
@@ -20,6 +20,8 @@ I recently completed an Erasmus exchange at FIIT STU (Bratislava), where I worke
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
 ![Prolog](https://img.shields.io/badge/-Prolog-black?style=flat-square)
 ![GLSL](https://img.shields.io/badge/-GLSL-5586A4?style=flat-square)
