@@ -23,8 +23,6 @@ I recently completed an Erasmus exchange at FIIT STU (Bratislava), where I worke
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
-![Prolog](https://img.shields.io/badge/-Prolog-black?style=flat-square)
-![GLSL](https://img.shields.io/badge/-GLSL-5586A4?style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
