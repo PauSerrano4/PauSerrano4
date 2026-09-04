@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at UPC (FIB), passionate about AI & ML 🚀
 
-I recently completed an Erasmus exchange at FIIT STU (Bratislava), where I worked on neural networks, chatbots, recommendation systems, and real-time rendering. I'm currently looking for a curricular internship starting September 2026 in Software Engineering or Data/AI.
+I recently completed an Erasmus exchange at FIIT STU (Bratislava), where I worked on neural networks, cloud automation tools, recommendation systems and data visualization. I'm currently looking for a curricular internship starting September 2026 in Software Engineering or Data/AI.
 
 - 🔭 I've recently worked on **cinder-backup-manager** (OpenStack automation with Python + Streamlit + Docker) and a **Siamese Network** for facial recognition (PyTorch)
 - 🌱 I'm currently learning more about AI, Machine Learning, and software development.
