@@ -6,7 +6,6 @@ I recently completed an Erasmus exchange at FIIT STU (Bratislava), where I worke
 
 - 🔭 I've recently worked on **pau-bot**, a personal chatbot that mimics my writing style (Streamlit + Gemini API), and a **Siamese Network** for facial recognition (PyTorch)
 - 💼 I'm currently doing an internship at **Generali**.
-- 🌱 I'm currently learning more about AI, Machine Learning, and software development.
 - 💬 Ask me about AI, ML or Software Development.
 - 🏋️ Outside of code, I'm into the gym and fitness. 
 - 🗣️ I speak Catalan and Spanish natively, and English (C1 Cambridge Advanced)
