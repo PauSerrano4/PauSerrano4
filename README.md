@@ -9,6 +9,7 @@ I recently completed an Erasmus exchange at FIIT STU (Bratislava), where I worke
 - 💬 Ask me about AI, ML or Software Development.
 - 🏋️ Outside of code, I'm into the gym and fitness. 
 - 🗣️ I speak Catalan and Spanish natively, and English (C1 Cambridge Advanced)
+- 🌍 Based in Barcelona, but always open to moving around the world and embracing international opportunities.
 
 ## My Skill Set
 
